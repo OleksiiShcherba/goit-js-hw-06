@@ -1,1 +1,1 @@
-HOME WORK -> goit-js-hw-01
+HOME WORK -> goit-js-hw-06
